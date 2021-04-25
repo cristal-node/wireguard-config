@@ -1,3 +1,5 @@
+##### This branch is beatified
+---
 # Wireguard config generator
 This is a clone of WireguardConfig.com
 
